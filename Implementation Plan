@@ -1,1 +1,37 @@
+📋 Implementation Roadmap
+Phase 1: Supabase Setup (Today)
 
+Apply
+1. Create Supabase project
+2. Set up database tables (users, ledgers, transactions, categories)
+3. Enable Row-Level Security (RLS)
+4. Add authentication (Email/Password or Magic Link)
+Phase 2: App Integration (1-2 days)
+
+Apply
+1. Install @supabase/supabase-js
+2. Create Supabase client
+3. Replace localStorage calls with Supabase queries
+4. Add login/signup pages
+5. Protect routes (redirect if not authenticated)
+Phase 3: Offline Support (1-2 days)
+
+Apply
+1. Keep localStorage as cache
+2. Sync to Supabase when online
+3. Queue changes when offline
+4. Resolve conflicts on reconnect
+Phase 4: PWA & Mobile (1 day)
+
+Apply
+1. Add manifest.json
+2. Service worker for offline
+3. Install prompt for mobile
+4. Test on actual devices
+Phase 5: Share & Feedback (Ongoing)
+
+Apply
+1. Deploy to Vercel/Netlify
+2. Send invites to friends
+3. Collect feedback
+4. Iterate based on usage
