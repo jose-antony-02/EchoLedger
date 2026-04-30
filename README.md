@@ -1,6 +1,6 @@
 "# EchoLedger 💰
 
-> **Your money, clearly.**
+
 
 A modern, privacy-first personal finance application for tracking income and expenses across multiple ledgers. Built with React and designed for people who value their financial privacy.
 
