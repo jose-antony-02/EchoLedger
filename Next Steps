@@ -1,1 +1,28 @@
+📱 What's Next? (Pick One)
+Option 1: Deploy & Share 🚀
+Make it accessible to your friends:
 
+Deploy to Vercel (free, 5 minutes)
+Get a shareable URL (e.g., echledger.vercel.app)
+Friends can sign up and use it
+Option 2: Mobile App (PWA) 📲
+Make it installable on phones:
+
+Add manifest.json
+Add service worker for offline
+"Add to Home Screen" on mobile
+Works like a native app
+Option 3: More Features 🛠️
+Enhance the app:
+
+Budgets - Set monthly limits per category
+Recurring Transactions - Auto-add salary, rent, etc.
+Export Data - Download as CSV/Excel
+Dark/Light Theme - Toggle between themes
+Option 4: Polish & UX ✨
+Make it smoother:
+
+Loading States - Better spinners/skeletons
+Toast Notifications - "Transaction added!" popups
+Confirm Dialogs - Before deleting
+Keyboard Shortcuts - Quick add transaction
