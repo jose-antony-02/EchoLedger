@@ -6,7 +6,16 @@ A modern, privacy-first personal finance application for tracking income and exp
 
 ![EchoLedger Dashboard](https://via.placeholder.com/1200x600/050810/10b981?text=EchoLedger+Dashboard)
 
+## ✨ Features
 
+- 📒 **Multi-Ledger Support** — Create separate ledgers for Home, Business, Savings, or any purpose
+- 📊 **Real-Time Analytics** — Interactive charts showing spending trends and category breakdowns
+- 🏷️ **Smart Categorization** — Pre-built categories for common expenses and income sources
+- 💱 **Multi-Currency** — Support for INR, USD, EUR, GBP, and more
+- 📅 **Flexible Filtering** — View transactions by day, week, month, year, or custom date ranges
+- 🔒 **Privacy-First** — All data stored locally using localStorage, nothing leaves your device
+- 🎨 **Beautiful UI** — Modern dark theme with smooth animations and responsive design
+- 📱 **Responsive** — Works seamlessly on desktop, tablet, and mobile
 
 ## 🚀 Quick Start
 
